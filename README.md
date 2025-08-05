@@ -139,10 +139,8 @@ A continuación se muestra una imagen representativa del proyecto y un vídeo de
 
 ![Proyecto](./doc/images/project.png)
 
-<video width="1000" controls>
-   <source src="doc/demo/demo.mp4" type="video/mp4">
-   Tu navegador no soporta la etiqueta de video.
-</video>
+📽️ **[Haz clic aquí para ver el video demo](./doc/demo/demo.mp4)**  
+_(Formato: MP4, se abrirá o descargará según tu navegador)_
 
 ## 👨‍💻 Autor
 
